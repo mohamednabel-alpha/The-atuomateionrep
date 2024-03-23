@@ -1,5 +1,5 @@
 x=5
-def good():
+def good(x):
   return x+x
 
-print(good())
+print(good(x))
